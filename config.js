@@ -14,16 +14,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.vcardowner = ['923258787253'] //ur owner number
+global.ownername = "ASH x SAAD" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
+global.owner = ['923258787253'] //ur number
+global.ownernomer = "923258787253" //ur number
+global.ownertag = '923258787253' //ur tag number
 global.premium = ['916909137213'] //ur premium number
 global.botname = 'Cheems Bot V5' //ur bot name
 global.ownername = "🦄Dream Guy Xeon"
@@ -37,7 +37,7 @@ global.wm = "Xeon Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['/']
 global.sp = ''
 global.mess = {
     success: 'Done✓',
